@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 18px;
+}
+
+li {
+    list-style-type: none
+}
+
+
+
+.wrapper {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #27273e;
+    padding: 0 20px;
+    display: flex;
+}
+
+.logotype {
+    width: 30%;
+}
+
+.logotype__img--margin-header {
+    margin-top: 13px;
+}
+
+.contacts {
+    width: 70%;
+}
